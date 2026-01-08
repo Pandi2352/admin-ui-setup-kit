@@ -33,6 +33,11 @@ A robust, enterprise-grade React boilerplate designed for scalability, performan
 - **SEO Optimized**: Reusable `<SEO />` component using `react-helmet-async`.
 - **Error Boundaries**: Graceful error handling with custom 404 and 500 pages.
 
+### ⚡ Advanced Performance & Mocking
+- **PWA Ready**: Installable as a native app with offline capability (`vite-plugin-pwa`).
+- **MSW (Mock Service Worker)**: Prototype fast with network-level API mocking using `msw`.
+- **Lazy Loading**: Route-based code splitting using `React.lazy` and `Suspense`.
+
 ### 🧰 Developer Utilities
 - **Custom Hooks**:
   - `useLocalStorage` / `useSessionStorage`: Persist state easily.
