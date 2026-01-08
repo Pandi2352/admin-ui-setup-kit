@@ -9,12 +9,6 @@ import { API_BASE_URL, API_TIMEOUT, ENDPOINTS, HTTP_STATUS } from '../../constan
 
 // --- Types ---
 
-interface ApiResponse<T = any> {
-    data: T;
-    message?: string;
-    status: number;
-}
-
 // Helper to get access token from storage
 const getAccessToken = (): string | null => {
     if (typeof window !== 'undefined') {
