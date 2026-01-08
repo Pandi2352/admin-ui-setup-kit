@@ -22,7 +22,7 @@ const RoleContext = createContext<RoleContextType | undefined>(undefined);
 const MOCK_USER: User = {
   id: 'u-123',
   name: 'Alex Morgan',
-  role: 'user', // Default role
+  role: 'admin', // Default role
 };
 
 export const RoleProvider = ({ children }: { children: ReactNode }) => {

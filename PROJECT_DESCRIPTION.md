@@ -3,6 +3,8 @@
 ## 📝 Short Description
 **Admin Kit** is a robust, enterprise-grade Admin Dashboard boilerplate built with React 18, TypeScript, Tailwind CSS, and Vite. It serves as a solid foundation for SaaS applications, featuring built-in authentication patterns, role-based access control (RBAC), and a modular architecture.
 
+**Live Demo:** [https://admin-ui-setup-kit.vercel.app/](https://admin-ui-setup-kit.vercel.app/)
+
 ## 🚀 Elevator Pitch
 Stop rebuilding the same dashboard foundation for every project. Admin Kit provides a production-ready, strictly typed, and aesthetically pleasing starting point with all the "boring stuff" (Auth, RBAC, API handling, Theming) pre-solved. Focus on your business logic, not specific configuration.
 

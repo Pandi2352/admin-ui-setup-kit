@@ -6,6 +6,8 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-v4.0-blue)
 ![Vite](https://img.shields.io/badge/vite-v5.0-purple)
 
+[![Live Demo](https://img.shields.io/badge/demo-live-green.svg?style=for-the-badge&logo=vercel)](https://admin-ui-setup-kit.vercel.app/)
+
 A robust, enterprise-grade React boilerplate designed for scalability, performance, and best-in-class developer experience. This kit is pre-configured with essential utilities, hooks, RBAC, and a modern UI foundation to jumpstart your next SaaS or Admin Dashboard project.
 
 ---
